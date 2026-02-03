@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Bazaar pro",
+  "description": "Premium AI-Powered Multi-Category Marketplace. Secure, Global, and Real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
